@@ -4,8 +4,8 @@
   "name": "Reactor Data",
   "logo": {
     "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
-    "href": "https://reactordata.com",
+    "light": "/logo/light.svg",
+    "href": "https://reactordata.com"
   },
   "favicon": "/favicon.svg",
   "colors": {
