@@ -1,6 +1,6 @@
 {
+  "theme": "quill",
   "$schema": "https://mintlify.com/schema.json",
-   "theme": "quill",
   "name": "Reactor Data",
   "logo": {
     "dark": "/logo/dark.svg",
