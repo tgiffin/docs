@@ -15,10 +15,11 @@
       "to": "#07C983"
     }
   },
+  "theme": "quill"
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:support@reactordata.com"
     }
   ],
   "topbarCtaButton": {
