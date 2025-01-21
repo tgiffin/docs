@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-   "theme": "quill"
+   "theme": "quill",
   "name": "Reactor Data",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
-    "href": "https://reactordata.com"
+    "href": "https://reactordata.com",
   },
   "favicon": "/favicon.svg",
   "colors": {
